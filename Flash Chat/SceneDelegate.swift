@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Flash Chat
 //
-//  Created by админ on 02.02.2023.
+//  Created by Pavel Reshetov on 02.02.2023.
 //
 
 import UIKit
